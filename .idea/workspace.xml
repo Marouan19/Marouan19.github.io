@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba07dcd6-4a2b-459c-ba03-2d6f2a36261b" name="Changes" comment="fin">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firebase-debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/firebase-debug.log" afterDir="false" />
-    </list>
+    <list default="true" id="ba07dcd6-4a2b-459c-ba03-2d6f2a36261b" name="Changes" comment="fin" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718299195258</updated>
-      <workItem from="1718299199761" duration="14533000" />
+      <workItem from="1718299199761" duration="14843000" />
     </task>
     <task id="LOCAL-00001" summary="app index.html">
       <option name="closed" value="true" />
@@ -134,7 +131,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718320884762</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fin">
+      <option name="closed" value="true" />
+      <created>1718322448439</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718322448439</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fin">
+      <option name="closed" value="true" />
+      <created>1718322593345</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718322593346</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
