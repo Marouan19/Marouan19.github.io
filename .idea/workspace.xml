@@ -4,7 +4,96 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba07dcd6-4a2b-459c-ba03-2d6f2a36261b" name="Changes" comment="fin" />
+    <list default="true" id="ba07dcd6-4a2b-459c-ba03-2d6f2a36261b" name="Changes" comment="fin">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/ajax-loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/css/ajax-loader.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/animate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/aos.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/aos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/css/mixins/_text-hide.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/css/mixins/_text-hide.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/flaticon.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/flaticon.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/icomoon.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/icomoon.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/ionicons.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/ionicons.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/magnific-popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/magnific-popup.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/open-iconic-bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/open-iconic-bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/owl.carousel.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/owl.carousel.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/owl.theme.default.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/owl.theme.default.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/flaticon/backup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/flaticon/backup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/flaticon/font/Flaticon.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/flaticon/font/Flaticon.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/flaticon/font/Flaticon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/flaticon/font/Flaticon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/flaticon/font/Flaticon.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/flaticon/font/Flaticon.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/flaticon/font/Flaticon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/flaticon/font/Flaticon.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/flaticon/font/Flaticon.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/flaticon/font/Flaticon.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/flaticon/font/_flaticon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/flaticon/font/_flaticon.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/flaticon/font/flaticon.css" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/flaticon/font/flaticon.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/flaticon/font/flaticon.html" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/flaticon/font/flaticon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/flaticon/license/license.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/flaticon/license/license.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/icomoon/icomoon.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/icomoon/icomoon.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/icomoon/icomoon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/icomoon/icomoon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/icomoon/icomoon.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/icomoon/icomoon.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/icomoon/icomoon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/icomoon/icomoon.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/ionicons/css/_ionicons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/ionicons/css/_ionicons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/ionicons/css/ionicons.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/ionicons/css/ionicons.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/ionicons/fonts/ionicons.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/ionicons/fonts/ionicons.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/ionicons/fonts/ionicons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/ionicons/fonts/ionicons.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/ionicons/fonts/ionicons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/ionicons/fonts/ionicons.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/ionicons/fonts/ionicons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/ionicons/fonts/ionicons.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/ionicons/fonts/ionicons.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/ionicons/fonts/ionicons.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/open-iconic/open-iconic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/open-iconic/open-iconic.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/open-iconic/open-iconic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/open-iconic/open-iconic.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/open-iconic/open-iconic.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/open-iconic/open-iconic.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/open-iconic/open-iconic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/open-iconic/open-iconic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/open-iconic/open-iconic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/open-iconic/open-iconic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/CV_Marouan_Daghmoumi.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/images/CV_Marouan_Daghmoumi.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/about.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/about.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/bg_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/bg_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/image_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/image_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/image_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/image_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/image_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/image_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/loc.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/loc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/project-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/project-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/project-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/project-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/project-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/project-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/project-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/project-5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/project-6.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/project-6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/project-7.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/project-7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/vol1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/vol1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/vol10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/vol10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/vol11.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/vol11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/vol12.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/vol12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/vol13.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/vol13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/vol2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/vol2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/vol3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/vol3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/vol4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/vol4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/vol5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/vol5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/vol6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/vol6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/vol7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/vol7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/vol8.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/vol8.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/vol9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/vol9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/aos.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/aos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/google-map.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/google-map.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery-3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery-3.2.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery-migrate-3.0.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery-migrate-3.0.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.animateNumber.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.animateNumber.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.easing.1.3.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.easing.1.3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.magnific-popup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.stellar.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.stellar.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.waypoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.waypoints.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/owl.carousel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/popper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/scrollax.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scrollax.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,10 +138,10 @@
       <recent name="$PROJECT_DIR$/templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/static/images" />
       <recent name="$PROJECT_DIR$/static/project-6" />
       <recent name="$PROJECT_DIR$/static" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager">
@@ -89,7 +178,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718299195258</updated>
-      <workItem from="1718299199761" duration="14843000" />
+      <workItem from="1718299199761" duration="16364000" />
     </task>
     <task id="LOCAL-00001" summary="app index.html">
       <option name="closed" value="true" />
@@ -147,7 +236,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718322593346</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fin">
+      <option name="closed" value="true" />
+      <created>1718322663448</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718322663448</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fin">
+      <option name="closed" value="true" />
+      <created>1718400711898</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718400711898</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
